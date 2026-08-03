@@ -1,1 +1,1 @@
-# junseo-s-study-coding
+# junseo-python-projects
