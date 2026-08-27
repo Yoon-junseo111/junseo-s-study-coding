@@ -126,6 +126,7 @@ while True:  # 항상 참을 보여준다.
         print("\n===== 잔액 조회 ======")
         print(f"총 수입 : {total_income:,}원")
         print(f"총 지출 : {total_expense:,}원")
+        print(f"현재 잔액 : {balance:,}원")
         
     ## 5. 종료 ##
     elif menu == "5" :
