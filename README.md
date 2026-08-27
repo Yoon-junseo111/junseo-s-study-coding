@@ -437,6 +437,8 @@ model.fit(x, y, epochs=100)
 result = model.predict(np.array([4]))
 
 print("4의 예측값 :", result)
+```
+
 ---
 
 # 학습 및 구현 정리
