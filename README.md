@@ -197,15 +197,15 @@ balance = total_income - total_expense
 `while` 반복문을 사용하여 프로그램이 종료될 때까지 메뉴가 반복되도록 구성했으며,
 `if / elif / else` 조건문을 이용하여 선택한 메뉴에 맞는 기능을 실행합니다.
 
-## 실행 결과
+## 가계부 실행 결과
 
-### 가계부 실행 결과 1
+### 실행 결과 1
 
-![가계부 실행 결과 1](account_book/p_account_book_result1.png)
+![실행 결과 1](account_book/p_account_book_result1.png)
 
-### 가계부 실행 결과 2
+### 실행 결과 2
 
-![가계부 실행 결과 2](account_book/p_account_book_result2.png)
+![실행 결과 2](account_book/p_account_book_result2.png)
 
 ---
 
@@ -246,15 +246,15 @@ print(calendar.month(year, month))
 
 입력한 정보를 이용하여 해당 월의 달력을 콘솔에 출력합니다.
 
-## 실행 결과
+## 달력 실행 결과
 
-### 달력 실행 결과 1
+### 실행 결과 1
 
-![달력 실행 결과 1](calendar_project/python_calendar_result1.png)
+![실행 결과 1](calendar_project/python_calendar_result1.png)
 
-### 달력 실행 결과 2
+### 실행 결과 2
 
-![달력 실행 결과 2](calendar_project/python_calendar_result2.png)
+![실행 결과 2](calendar_project/python_calendar_result2.png)
 
 ---
 
@@ -361,19 +361,19 @@ for data in order_list:
 
 ### 주문 프로그램 실행 결과 1
 
-![주문 프로그램 실행 결과 1](oreder_program/(order_program_result1.png)
+![실행 결과 1](order_program/(order_program_result1.png)
 
 ### 주문 프로그램 실행 결과 2
 
-![주문 프로그램 실행 결과 2](order_program/order_program_result2.png)
+![실행 결과 2](order_program/order_program_result2.png)
 
 ### 주문 프로그램 실행 결과 3
 
-![주문 프로그램 실행 결과 3](order_program/order_program_result3.png)
+![실행 결과 3](order_program/order_program_result3.png)
 
 ### 주문 프로그램 실행 결과 4
 
-![주문 프로그램 실행 결과 4](order_program/order_program_result4.png)
+![실행 결과 4](order_program/order_program_result4.png)
 
 ---
 
