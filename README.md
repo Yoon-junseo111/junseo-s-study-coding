@@ -201,11 +201,11 @@ balance = total_income - total_expense
 
 ### 가계부 실행 결과 1
 
-![가계부 실행 결과 1](result/p_account_book_result1.png)
+![가계부 실행 결과 1](account_book/p_account_book_result1.png)
 
 ### 가계부 실행 결과 2
 
-![가계부 실행 결과 2](result/p_account_book_result2.png)
+![가계부 실행 결과 2](account_book/p_account_book_result2.png)
 
 ---
 
