@@ -250,11 +250,11 @@ print(calendar.month(year, month))
 
 ### 달력 실행 결과 1
 
-![달력 실행 결과 1](result/python_calendar_result1.png)
+![달력 실행 결과 1](calendar_project/python_calendar_result1.png)
 
 ### 달력 실행 결과 2
 
-![달력 실행 결과 2](result/python_calendar_result2.png)
+![달력 실행 결과 2](calendar_project/python_calendar_result2.png)
 
 ---
 
@@ -361,19 +361,19 @@ for data in order_list:
 
 ### 주문 프로그램 실행 결과 1
 
-![주문 프로그램 실행 결과 1]result/(order_program_result1.png)
+![주문 프로그램 실행 결과 1](oreder_program/(order_program_result1.png)
 
 ### 주문 프로그램 실행 결과 2
 
-![주문 프로그램 실행 결과 2](result/order_program_result2.png)
+![주문 프로그램 실행 결과 2](order_program/order_program_result2.png)
 
 ### 주문 프로그램 실행 결과 3
 
-![주문 프로그램 실행 결과 3](result/order_program_result3.png)
+![주문 프로그램 실행 결과 3](order_program/order_program_result3.png)
 
 ### 주문 프로그램 실행 결과 4
 
-![주문 프로그램 실행 결과 4](result/order_program_result4.png)
+![주문 프로그램 실행 결과 4](order_program/order_program_result4.png)
 
 ---
 
