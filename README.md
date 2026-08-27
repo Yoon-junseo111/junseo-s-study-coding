@@ -359,19 +359,19 @@ for data in order_list:
 
 ## 실행 결과
 
-### 주문 프로그램 실행 결과 1
+### 주문 조회 실행 결과 1
 
-![실행 결과 1](order_program/(order_program_result1.png)
+![주문 조회 실행 결과 1](order_program/(order_program_result1.png)
 
-### 주문 프로그램 실행 결과 2
+### 실행 결과 2
 
 ![실행 결과 2](order_program/order_program_result2.png)
 
-### 주문 프로그램 실행 결과 3
+### 실행 결과 3
 
 ![실행 결과 3](order_program/order_program_result3.png)
 
-### 주문 프로그램 실행 결과 4
+### 실행 결과 4
 
 ![실행 결과 4](order_program/order_program_result4.png)
 
