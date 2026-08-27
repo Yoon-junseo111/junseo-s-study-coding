@@ -403,6 +403,41 @@ for data in order_list:
 - `calendar` 모듈
 
 ---
+## 머신러닝/딥러닝 기초 학습
+
+Python을 활용하여 머신러닝의 중요한 기본인 데이터 처리와 머신러닝 기초 학습을 진행했습니다.
+
+- `_data` : 학습 및 실습에 사용되는 데이터 관리
+- `_save` : 학습된 모델 및 결과 데이터 저장
+- `keras` : Keras를 활용한 딥러닝 기초 학습
+- `ml` : 머신러닝 관련 기초 실습
+- `pandas` : Pandas를 활용한 데이터 처리 및 분석 실습
+
+또한 TensorFlow와 Keras를 이용하여 간단한 딥러닝 모델을 직접 구성하고 학습해보았습니다.
+
+```python
+import tensorflow as tf
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
+import numpy as np
+
+# 1. 데이터
+x = np.array([1, 2, 3])
+y = np.array([1, 2, 3])
+
+# 2. 모델 구성
+model = Sequential()
+model.add(Dense(1, input_dim=1))
+
+# 3. 컴파일 및 훈련
+model.compile(loss="mse", optimizer="adam")
+model.fit(x, y, epochs=100)
+
+# 4. 예측
+result = model.predict(np.array([4]))
+
+print("4의 예측값 :", result)
+---
 
 # 학습 및 구현 정리
 
@@ -414,3 +449,9 @@ Python의 기본 자료형인 딕셔너리, 집합, 튜플의 특징과 사용 �
 조건문과 반복문을 활용하여 사용자 입력에 따라 프로그램의 동작을 제어하는 방법을 연습했습니다.
 
 또한 주문 금액과 가계부 잔액 계산을 구현하면서 저장된 데이터를 반복적으로 조회하고 계산하는 방법을 학습했습니다.
+
+추가로 Pandas를 활용한 데이터 처리와 머신러닝 기초를 학습했으며,
+TensorFlow와 Keras를 활용하여 딥러닝의 기본적인 모델 구성, 학습, 예측 과정을 실습했습니다.
+
+이를 통해 데이터를 준비하고 모델을 구성한 뒤 학습을 진행하고,
+학습된 모델을 이용하여 새로운 데이터를 예측하는 머신러닝 및 딥러닝의 기본적인 흐름을 학습했습니다.
